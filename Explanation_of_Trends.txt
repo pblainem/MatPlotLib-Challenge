@@ -1,0 +1,11 @@
+
+Data insights:
+1) More urban areas have more drivers
+2) The average rural driver provides the most rides, and those are the most expensive rides.
+This is evident in the pie charts.
+Only 1% of drivers are rural, but they provide 5.2% of all rides, and 6.6% of revenue
+3) From the bubble chart:
+There is a negative correlation between the number of rides in a given city, and the average fare in that city.
+This could be because, more urban areas represent shorter rides, but more rides.
+It could also be because areas where there are fewer rides given have a smaller supply of drivers,
+so prices are "surging" due to low supply or drivers.
